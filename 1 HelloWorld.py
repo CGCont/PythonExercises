@@ -1,2 +1,2 @@
-#Primero programa
+#Primer programa
 print("Hello world")
